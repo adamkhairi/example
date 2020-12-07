@@ -1,0 +1,6 @@
+/home/ad/RiderProjects/example/example/bin/Debug/example.exe
+/home/ad/RiderProjects/example/example/bin/Debug/example.pdb
+/home/ad/RiderProjects/example/example/obj/Debug/example.csprojAssemblyReference.cache
+/home/ad/RiderProjects/example/example/obj/Debug/example.csproj.CoreCompileInputs.cache
+/home/ad/RiderProjects/example/example/obj/Debug/example.exe
+/home/ad/RiderProjects/example/example/obj/Debug/example.pdb
