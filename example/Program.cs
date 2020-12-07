@@ -14,6 +14,10 @@ namespace example
             Marwan.Refr = 0;
             Console.WriteLine(Marwan.Refr);
             
+            Console.WriteLine(Marwan.Refr);  
+            Marwan.Refr = 0;                 
+            Console.WriteLine(Marwan.Refr);              
+            
         }
     }
 }
